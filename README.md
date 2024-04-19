@@ -4,6 +4,6 @@
 - 🌱My expertise lies in **Java**, and I also have knowledge of **Scala**. Additionally, I'm capable of developing programs in **Golang** if needed🙋‍♀️.
 - 🚀Currently, I am learning software development based on distributed systems and microservices.Excited to explore new horizons!.
 - 😍Always looking forward to a software developing intern job, please contact me if you are interested.
-- 🏠This is my [blog](https://github.com/MilkTeaAddicted).
+- 🏠This is my [blog](https://milkteaaddicted.github.io/).
 
 
