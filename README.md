@@ -2,7 +2,7 @@
 
 - ⚡From December 2023 to March 2024, I worked at [@Xiaomi(小米)](https://www.mi.com/) as a software development engineer, responsible for developing integration services for mobile and in-car artificial intelligence，which is called Mi AI(小爱同学).
 - 💻From June 2024 to September 2024, I embarked on an internship at [@ByteDance(字节跳动)](https://www.bytedance.com/zh/), specifically in the Tiktok Shop, where I was responsible for international e-commerce related business. This is a dynamic and innovative company where I gained unprecedented technical experience and growth.
-- 🌱My expertise lies in **Java**. Due to previous internships, I have also acquired certain skills in Golang and Scala development. Additionally, for research purposes, writing Python code is also within my capabilities. 🙋‍♀️.
+- 🌱My expertise lies in **Java**. Due to previous internships, I have also acquired skills in Golang and Scala development. Additionally, for research purposes, writing Python code is also within my capabilities. 🙋‍♀️.
 - 🚀Currently, I am learning software development based on distributed systems and microservices.Excited to explore new horizons!.
 - 😍Always looking forward to a software developing intern job, please contact me if you are interested. My email is 'muyuliu2001@163.com'.
 - 🏠This is my [blog](https://milkteaaddicted.github.io/).
