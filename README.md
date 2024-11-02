@@ -1,4 +1,4 @@
-### Hi! I'm @MilkTeaAddicated(xiao mu/晓沐), a graduate student from Wuhan University，currently focusing on backend development
+### Hi! I'm @MilkTeaAddicated(晓沐/Selma), a graduate student from Wuhan University，currently focusing on backend development
 
 - ⚡From December 2023 to March 2024, I worked at [@Xiaomi(小米)](https://www.mi.com/) as a software development engineer, responsible for developing integration services for mobile and in-car artificial intelligence，which is called Mi AI(小爱同学).
 - 💻From June 2024 to September 2024, I embarked on an internship at [@ByteDance(字节跳动)](https://www.bytedance.com/zh/), specifically in the Tiktok Shop, where I was responsible for international e-commerce related business. This is a dynamic and innovative company where I gained unprecedented technical experience and growth.
@@ -7,7 +7,7 @@
 - 😍Always looking forward to a software developing intern job, please contact me if you are interested. My email is 'muyuliu2001@163.com'.
 - 🏠This is my [blog](https://milkteaaddicted.github.io/).
 
-### 你好！这里是@MilkTeaAddicated（晓沐），武汉大学研究生在读，目前专注于后端开发
+### 你好！这里是@MilkTeaAddicated（晓沐/Selma ），武汉大学研究生在读，目前专注于后端开发
 
 - ⚡2023年12月-2024年3月, 我在 [@Xiaomi(小米)](https://www.mi.com/) 实习，岗位是云端架构组下的软件开发工程师, 我负责一部分了小米手机和车载大模型的下游接入业务，没错就是耳熟能详的小爱同学，很高兴su7的上市让小爱有了更好的表现空间.
 - 💻2024年6月-2024年9月，我开启了我在[@ByteDance(字节跳动)](https://www.bytedance.com/zh/)实习，实习的部门是Tiktok Shop,负责国际电商相关的业务，这是一家充满活力和创新型的公司，在这里我得到了前所未有的技术体验和成长。
